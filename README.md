@@ -21,4 +21,5 @@ Technologies Used
 | Python | Backend logic |
 | Flask | Web framework |
 | HTML & CSS | Frontend UI |
+| MongoDB | Database |
 | GitHub | Version control |
