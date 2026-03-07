@@ -12,6 +12,7 @@ Features
 3. Simple list view to see all habits  
 4. Clean and minimal UI  
 5. No login required — for local usage
+6. Real Date-Time saving feature
 
 
 Technologies Used
